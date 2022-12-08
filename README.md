@@ -4,9 +4,11 @@
 
 ![Screen Shot 2022-12-06 at 6 52 55 PM](https://user-images.githubusercontent.com/110838228/206514591-725d7d53-4f70-43a8-b8b7-e170ec3026f0.png)
 
--vehicle length and gound clearance
--no, because if the slope were to be 0 the coeffients would have to be 0 as well
--yes, because its a relatively large R-squared value, and the value is closer to 1 than 0
+-Vehicle length and gound clearance provided a non-random amount of variance to the mpg values in the dataset.
+
+-The slope is not considered to be 0 because if the slope were to be 0 the coeffients would have to be 0 as well.
+
+-The linear model predicts mpg of MechaCar prototypes effectively because its a relatively large R-squared value, and the value is closer to 1 than 0.
 
 ## Summary Statistics on Suspension Coils
 
